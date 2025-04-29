@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534725038423",
+    "project_id": "airquality-1afd3",
+    "storage_bucket": "airquality-1afd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534725038423:android:ed5222d6c402ceaa4e6e12",
+        "android_client_info": {
+          "package_name": "com.skripsi.airquality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxGGcB_Hsc77NHs3qztSX3nxCRIYvlR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
